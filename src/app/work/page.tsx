@@ -65,7 +65,7 @@ export default function LandingPage() {
         },
         {
           id: "project-2",
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-abstract-paper-background_23-2147981635.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-abstract-paper-background_23-2147981635.jpg?_wi=1",
           imageAlt: "e-commerce analytics dashboard",
         },
       ]}
@@ -119,7 +119,7 @@ export default function LandingPage() {
               imageAlt: "صورة مديرة وسائل التواصل الاجتماعي",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-abstract-paper-background_23-2147981635.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-view-abstract-paper-background_23-2147981635.jpg?_wi=2",
           imageAlt: "male CEO strategic portrait",
         },
       ]}
